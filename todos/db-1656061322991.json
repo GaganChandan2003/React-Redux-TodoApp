@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "My first Todo",
+      "status": false
+    },
+    {
+      "id": "9ce53245-bd8b-40e3-ac0c-161ccf7cf38d",
+      "todo": "",
+      "status": false
+    },
+    {
+      "id": "dd659ca7-a551-4c84-a617-1d86beaad927",
+      "todo": "Gagan",
+      "status": false
+    },
+    {
+      "id": "daca2082-d3aa-4eb7-ba72-1e8ca9b51647",
+      "todo": "Gagan",
+      "status": false
+    },
+    {
+      "id": "d8306876-80d6-4645-a80a-3686a02a2a7f",
+      "todo": "Gagan",
+      "status": false
+    },
+    {
+      "id": "1c217663-7297-4714-b044-c29a73aff712",
+      "todo": "Akshay",
+      "status": false
+    }
+  ]
+}
